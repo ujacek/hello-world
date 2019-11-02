@@ -1,3 +1,4 @@
-#hello-world
-Pierwsze testowe repozytorium
+# hello-world
+Pierwsze testowe repozytorium! 
+Bla, bla, bla...
 
